@@ -1,2 +1,2 @@
-# currency-converter
-Simple currency converter in js.
+# currency-conververter
+Currency converter in js.
